@@ -1,0 +1,27 @@
+﻿@model List<ChatInAHat.ChatRoom>
+
+<div class="container mt-5">
+    <h2>Chat Rooms</h2>
+    <div class="row">
+        <div class="col-md-8">
+            <ul class="list-group">
+                @foreach (var room in Model)
+                {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <a asp-action="Room" asp-route-id="@room.Id">@room.Name</a>
+                        <span class="badge bg-primary rounded-pill">Created by @room.CreatedBy</span>
+                    </li>
+                }
+            </ul>
+        </div>
+        <div class="col-md-4">
+            <form asp-action="CreateRoom" method="post">
+                <div class="mb-3">
+                    <label for="name" class="form-label">New Room Name</label>
+                    <input type="text" class="form-control" id="name" name="name" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Create Room</button>
+            </form>
+        </div>
+    </div>
+</div>

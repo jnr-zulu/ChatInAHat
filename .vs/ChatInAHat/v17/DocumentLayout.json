@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patrick-Jnr Zulu\\Documents\\Visual Studio Projects\\ChatInAHat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA883E46-E382-4E92-9985-BD77EF435C24}|ChatInAHat.csproj|c:\\users\\patrick-jnr zulu\\documents\\visual studio projects\\chatinahat\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA883E46-E382-4E92-9985-BD77EF435C24}|ChatInAHat.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA883E46-E382-4E92-9985-BD77EF435C24}|ChatInAHat.csproj|c:\\users\\patrick-jnr zulu\\documents\\visual studio projects\\chatinahat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA883E46-E382-4E92-9985-BD77EF435C24}|ChatInAHat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA883E46-E382-4E92-9985-BD77EF435C24}|ChatInAHat.csproj|c:\\users\\patrick-jnr zulu\\documents\\visual studio projects\\chatinahat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA883E46-E382-4E92-9985-BD77EF435C24}|ChatInAHat.csproj|solutionrelative:chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA883E46-E382-4E92-9985-BD77EF435C24}|ChatInAHat.csproj|c:\\users\\patrick-jnr zulu\\documents\\visual studio projects\\chatinahat\\chatinahat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA883E46-E382-4E92-9985-BD77EF435C24}|ChatInAHat.csproj|solutionrelative:chatinahat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatInAHat.csproj",
+              "DocumentMoniker": "C:\\Users\\Patrick-Jnr Zulu\\Documents\\Visual Studio Projects\\ChatInAHat\\ChatInAHat.csproj",
+              "RelativeDocumentMoniker": "ChatInAHat.csproj",
+              "ToolTip": "C:\\Users\\Patrick-Jnr Zulu\\Documents\\Visual Studio Projects\\ChatInAHat\\ChatInAHat.csproj",
+              "RelativeToolTip": "ChatInAHat.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T14:46:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Patrick-Jnr Zulu\\Documents\\Visual Studio Projects\\ChatInAHat\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatHub.cs",
+              "ToolTip": "C:\\Users\\Patrick-Jnr Zulu\\Documents\\Visual Studio Projects\\ChatInAHat\\ChatHub.cs",
+              "RelativeToolTip": "ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:38:59.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Patrick-Jnr Zulu\\Documents\\Visual Studio Projects\\ChatInAHat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Patrick-Jnr Zulu\\Documents\\Visual Studio Projects\\ChatInAHat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:20:29.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patrick-Jnr Zulu\\Documents\\Visual Studio Projects\\ChatInAHat\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Patrick-Jnr Zulu\\Documents\\Visual Studio Projects\\ChatInAHat\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T14:52:09.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
